@@ -1,0 +1,6 @@
+- path: /ego
+  url: https://go.dev/doc/effective_go
+- path: /sgo
+  url: https://go.dev/ref/spec
+- path: /pgo
+  url: https://go.dev/play/
